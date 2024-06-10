@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Rania
 - 🌱 I'm an Applied Informatics student
-- 📫 How to reach me: stavrirania@gmail.com
+- 📫 How to reach me:
+-   academic email: iis23066@uom.edu.gr
+-   personal email: stavrirania@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I also like drawing realistic portraits
 
